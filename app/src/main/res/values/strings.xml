@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">RestAPIRetrofitJSON</string>
+=======
+    <string name="app_name">RestAPI</string>
+>>>>>>> initial project setup
+</resources>
